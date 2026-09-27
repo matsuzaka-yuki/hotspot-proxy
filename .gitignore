@@ -1,0 +1,6 @@
+# 本地/运行时产物
+*.log
+*.pid
+state
+__pycache__/
+*.pyc
